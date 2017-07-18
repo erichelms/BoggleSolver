@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2015\Projects\BoggleSolver\BoggleSolver\bin\Debug\BoggleSolver.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\BoggleSolver\BoggleSolver\bin\Debug\BoggleSolver.exe
+c:\users\eric\documents\visual studio 2015\Projects\BoggleSolver\BoggleSolver\bin\Debug\BoggleSolver.pdb
+c:\users\eric\documents\visual studio 2015\Projects\BoggleSolver\BoggleSolver\obj\Debug\BoggleSolver.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2015\Projects\BoggleSolver\BoggleSolver\obj\Debug\BoggleSolver.exe
+c:\users\eric\documents\visual studio 2015\Projects\BoggleSolver\BoggleSolver\obj\Debug\BoggleSolver.pdb
